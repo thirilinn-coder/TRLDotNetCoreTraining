@@ -1,3 +1,6 @@
 <Solution>
+  <Folder Name="/Documents/">
+    <File Path="README.md" />
+  </Folder>
   <Project Path="TRLDotNetCoreTraining.ConsoleApp1/TRLDotNetCoreTraining.ConsoleApp1.csproj" />
 </Solution>
